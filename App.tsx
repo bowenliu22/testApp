@@ -78,7 +78,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+            screen and then come back to see your edits. We have an active working prototype that lets me change things on the go
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
